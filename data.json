@@ -1,0 +1,19 @@
+{
+    "projects": [
+
+        {
+        "id":0,
+        "project_Name": "Random Quotes",
+        "description": "This project Generate Random quotes related to technology",
+        "technologies": ["Html","Css","Javascript"],
+        "images_url":["random.jpg","random1.jpg","random2.jpg","random3.jpg"]
+        },
+        {
+            "id":1,
+            "project_Name": "Pagination",
+            "description": "This project shows the 10 contact information of employees in every page ",
+            "technologies": "In this project i used html,css and javascript",
+            "images_url":["Contact.jpg","Contact 1.jpg","contact2.jpg","contact3.jpg"]
+            }
+        ]
+}
